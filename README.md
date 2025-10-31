@@ -151,7 +151,7 @@ Esta atividade reforçou os conceitos de:
 
 ---
 
-**📌 Autor:**Felipe Souza Panichi
+**📌 Autor:** Felipe Souza Panichi
 **🏫 Faculdade Impacta – 5º Semestre de ADS**
 
 ---
