@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import MagicMock
-from CategoriaIdade import classificar_nadador
+from src.CategoriaIdade import classificar_nadador
 
 class TestClassificacaoComMock(unittest.TestCase):
     def test_classificar_nadador_com_mock(self):
